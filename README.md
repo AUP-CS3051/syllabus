@@ -7,7 +7,7 @@
 * **Office:** SD-09
 * **Office Hours:** By appointment on [Calendly](https://calendly.com/tlibal)
 * **Class Schedule:** Tue/Fri 10:35-11:55
-* **Credits:** 2
+* **Credits:** 4
 
 ### Course Description
 The web applications world is going through many transformations in recent years. Originally conceived as a vehicle for delivering documents, it is now being used as a platform for sophisticated interactive applications, taking the place of traditional desktop ones. Web-based applications offer numerous advantages, such as instant access, automatic upgrades, and opportunities for collaboration on a massive scale. However, creating Web applications requires different approaches than traditional applications and involves the integration of numerous technologies on both the client and the server sides.
